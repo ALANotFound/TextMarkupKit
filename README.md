@@ -24,7 +24,7 @@ Add this package to your Xcode project using Swift Package Manager:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_USERNAME/TextMarkupKit", from: "1.0.0")
+    .package(url: "https://github.com/ALANotFound/TextMarkupKit", from: "1.0.0")
 ]
 ```
 
@@ -212,7 +212,7 @@ MarkdownText(string: """
 
 ## 系统要求
 
-- iOS 14.0+ / macOS 11.0+
+- iOS 14.0+ / macOS 12.0+
 - Swift 5.9+
 - Xcode 15.0+
 
