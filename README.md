@@ -99,7 +99,7 @@ Based on my analysis, the answer is 42.
 
 ## Requirements
 
-- iOS 14.0+ / macOS 11.0+
+- iOS 14.0+ / macOS 12.0+
 - Swift 5.9+
 - Xcode 15.0+
 
